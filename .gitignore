@@ -1,0 +1,7 @@
+# Project exclude paths
+/demo01/target/
+/demo02_datasubmit/target/
+/demo03_ajax/target/
+/demo04_004_jump/target/
+/demo05_webinf/target/
+/out/
